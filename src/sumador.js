@@ -1,5 +1,5 @@
-function cambio(x, y) {
-  return x - y;
+function cambio(montoVenta, Efectivo) {
+  return Efectivo - montoVenta;
 }
 
 export default cambio;
