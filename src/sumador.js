@@ -1,5 +1,5 @@
-function sumar(x, y) {
+function cambio(x, y) {
   return x + y;
 }
 
-export default sumar;
+export default cambio;
